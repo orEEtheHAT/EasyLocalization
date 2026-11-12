@@ -1,0 +1,40 @@
+{
+  "name": "EasyLocalization.Gameplay",
+  "references": [
+    "EasyLocalization.Runtime",
+    "Unity.Localization",
+    "EasyResources.Runtime",
+    "EasyBuilding.Runtime",
+    "EasyInteraction.Runtime",
+    "Unity.InputSystem",
+    "Unity.ugui"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.oreethehat.easy-building",
+      "expression": "0.3.0",
+      "define": "EASY_WAVE1_BUILDING"
+    },
+    {
+      "name": "com.oreethehat.easy-interaction",
+      "expression": "0.3.0",
+      "define": "EASY_WAVE1_INTERACTION"
+    },
+    {
+      "name": "com.oreethehat.easy-localization",
+      "expression": "0.2.0",
+      "define": "EASY_WAVE1_LOCALIZATION"
+    },
+    {
+      "name": "com.oreethehat.easy-resources",
+      "expression": "0.3.0",
+      "define": "EASY_WAVE1_RESOURCES"
+    }
+  ],
+  "defineConstraints": [
+    "EASY_WAVE1_BUILDING",
+    "EASY_WAVE1_INTERACTION",
+    "EASY_WAVE1_LOCALIZATION",
+    "EASY_WAVE1_RESOURCES"
+  ]
+}

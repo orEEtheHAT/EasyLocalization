@@ -1,0 +1,42 @@
+{
+  "name": "com.oreethehat.easy-localization",
+  "displayName": "EasyLocalization",
+  "version": "0.2.0",
+  "unity": "6000.3",
+  "description": "Unity Localization setup, language state and reviewed Google Sheets synchronization.",
+  "author": {
+    "name": "orEEtheHAT"
+  },
+  "dependencies": {
+    "com.unity.localization": "1.5.13",
+    "com.unity.addressables": "2.9.1",
+    "com.unity.modules.jsonserialize": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "First Run",
+      "description": "Language switcher and parameterized text, with a scene creation menu. Requires EasyLocalization 0.2.0+, Input System 1.20.0+, uGUI 2.0.0+. No prerequisite sample imports.",
+      "path": "Samples~/First Run"
+    },
+    {
+      "displayName": "EasyResources",
+      "description": "Resource names by stable ID. Requires EasyLocalization 0.2.0+, EasyResources 0.3.0+. No prerequisite sample imports.",
+      "path": "Samples~/EasyResources"
+    },
+    {
+      "displayName": "EasyBuilding",
+      "description": "Building names and placement messages. Requires EasyBuilding 0.3.0+, EasyLocalization 0.2.0+. No prerequisite sample imports.",
+      "path": "Samples~/EasyBuilding"
+    },
+    {
+      "displayName": "EasyInteraction",
+      "description": "Event-driven interaction prompts. Requires EasyInteraction 0.3.0+, EasyLocalization 0.2.0+. No prerequisite sample imports.",
+      "path": "Samples~/EasyInteraction"
+    },
+    {
+      "displayName": "Gameplay Integration",
+      "description": "Combined resources, building and interaction example; individual adapters remain separate samples. Requires EasyBuilding 0.3.0+, EasyInteraction 0.3.0+, EasyLocalization 0.2.0+, EasyResources 0.3.0+, Input System 1.20.0+, uGUI 2.0.0+. No prerequisite sample imports.",
+      "path": "Samples~/Gameplay Integration"
+    }
+  ]
+}

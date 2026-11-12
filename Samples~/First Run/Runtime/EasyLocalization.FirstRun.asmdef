@@ -1,0 +1,4 @@
+{
+  "name": "EasyLocalization.FirstRun",
+  "references": ["EasyLocalization.Runtime", "Unity.Localization", "Unity.InputSystem", "Unity.ugui"]
+}

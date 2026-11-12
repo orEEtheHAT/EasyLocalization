@@ -1,0 +1,7 @@
+{
+  "name": "EasyLocalization.Editor.Tests",
+  "references": ["EasyLocalization.Runtime", "EasyLocalization.Editor", "Unity.Localization", "Unity.Localization.Editor"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

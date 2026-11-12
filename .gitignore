@@ -1,0 +1,7 @@
+[Ll]ibrary/
+[Tt]emp/
+[Uu]ser[Ss]ettings/
+oauth-client.json
+*.csproj
+*.sln
+*.user

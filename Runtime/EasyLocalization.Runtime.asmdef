@@ -1,0 +1,5 @@
+{
+  "name": "EasyLocalization.Runtime",
+  "rootNamespace": "EasyLocalization",
+  "references": ["Unity.Localization", "Unity.Addressables", "Unity.ResourceManager"]
+}

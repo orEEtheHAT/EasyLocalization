@@ -1,0 +1,23 @@
+{
+  "name": "EasyLocalization.EasyInteraction",
+  "references": [
+    "EasyLocalization.Runtime",
+    "EasyInteraction.Runtime"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.oreethehat.easy-interaction",
+      "expression": "0.3.0",
+      "define": "EASY_WAVE1_INTERACTION"
+    },
+    {
+      "name": "com.oreethehat.easy-localization",
+      "expression": "0.2.0",
+      "define": "EASY_WAVE1_LOCALIZATION"
+    }
+  ],
+  "defineConstraints": [
+    "EASY_WAVE1_INTERACTION",
+    "EASY_WAVE1_LOCALIZATION"
+  ]
+}

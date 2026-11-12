@@ -1,0 +1,23 @@
+{
+  "name": "EasyLocalization.EasyResources",
+  "references": [
+    "EasyLocalization.Runtime",
+    "EasyResources.Runtime"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.oreethehat.easy-localization",
+      "expression": "0.2.0",
+      "define": "EASY_WAVE1_LOCALIZATION"
+    },
+    {
+      "name": "com.oreethehat.easy-resources",
+      "expression": "0.3.0",
+      "define": "EASY_WAVE1_RESOURCES"
+    }
+  ],
+  "defineConstraints": [
+    "EASY_WAVE1_LOCALIZATION",
+    "EASY_WAVE1_RESOURCES"
+  ]
+}

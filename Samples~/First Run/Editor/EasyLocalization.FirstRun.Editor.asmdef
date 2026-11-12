@@ -1,0 +1,5 @@
+{
+  "name": "EasyLocalization.FirstRun.Editor",
+  "references": ["EasyLocalization.Runtime", "EasyLocalization.Editor", "EasyLocalization.FirstRun", "Unity.Localization", "Unity.Localization.Editor"],
+  "includePlatforms": ["Editor"]
+}

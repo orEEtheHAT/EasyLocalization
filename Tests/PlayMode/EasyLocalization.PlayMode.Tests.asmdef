@@ -1,0 +1,6 @@
+{
+  "name": "EasyLocalization.PlayMode.Tests",
+  "references": ["EasyLocalization.Runtime", "Unity.Localization", "Unity.Addressables", "Unity.ResourceManager"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

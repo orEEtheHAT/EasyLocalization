@@ -1,0 +1,8 @@
+{
+  "name": "EasyLocalization.Editor",
+  "rootNamespace": "EasyLocalization.Editor",
+  "references": ["EasyLocalization.Runtime", "Unity.Localization", "Unity.Localization.Editor", "Unity.Addressables", "Unity.Addressables.Editor", "Unity.ResourceManager"],
+  "includePlatforms": ["Editor"],
+  "overrideReferences": true,
+  "precompiledReferences": ["Unity.Localization.ThirdParty.Editor.dll"]
+}

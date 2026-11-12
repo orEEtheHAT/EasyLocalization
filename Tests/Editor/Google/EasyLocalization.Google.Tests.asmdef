@@ -1,0 +1,9 @@
+{
+  "name": "EasyLocalization.Google.Tests",
+  "references": ["EasyLocalization.Runtime", "EasyLocalization.Editor", "Unity.Localization", "Unity.Localization.Editor"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "overrideReferences": true,
+  "precompiledReferences": ["nunit.framework.dll", "Unity.Localization.ThirdParty.Editor.dll"],
+  "autoReferenced": false
+}
